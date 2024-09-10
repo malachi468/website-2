@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://malachi468.github.io/website-2/sitemap.xml
